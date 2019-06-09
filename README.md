@@ -103,3 +103,4 @@ auto car = injector.create<std::shared_ptr<Car>>();
 * [빌더 패턴](creation/builder.md)
 * [팩토리 패턴](creation/factory.md)
 * [프로토타입 패턴](creation/prototype.md)
+* [싱글턴 패턴](creation/singleton.md)
