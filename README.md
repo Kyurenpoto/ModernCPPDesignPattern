@@ -104,3 +104,8 @@ auto car = injector.create<std::shared_ptr<Car>>();
 * [팩토리 패턴](creation/factory.md)
 * [프로토타입 패턴](creation/prototype.md)
 * [싱글턴 패턴](creation/singleton.md)
+
+## 구조 패턴
+
+* [어댑터 패턴](structure/adapter.md)
+* [브릿지 패턴](structure/bridge.md)
