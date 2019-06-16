@@ -131,10 +131,3 @@ private:
     static int id;
 };
 ```
-
-* 사용 예시
-
-```cpp
-auto john = EmployeeFactory::NewAuxOfficeEmployee("John Doe", 123);
-auto jane = EmployeeFactory::NewMainOfficeEmployee("Jane Doe", 125);
-```
