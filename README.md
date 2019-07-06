@@ -114,3 +114,22 @@ auto car = injector.create<std::shared_ptr<Car>>();
 * [퍼사드 패턴](structure/facade.md)
 * [플라이웨이트 패턴](structure/flyweight.md)
 * [프록시 패턴](structure/proxy.md)
+
+## 행동 패턴
+
+* [책임 사슬 패턴](behavior/chain_responsibility.md)
+* [커맨드 패턴](behavior/command.md)
+* [인터프리터 패턴](behavior/interpreter.md)
+* [반복자 패턴](behavior/iterator.md)
+* [매개자 패턴](behavior/mediator.md)
+* [메멘토 패턴](behavior/memento.md)
+* [Null 객체 패턴](behavior/null_object.md)
+* [관찰자 패턴](behavior/observer.md)
+* [상태 패턴](behavior/state.md)
+* [전략 패턴](behavior/strategy.md)
+* [템플릿 메서드 패턴](behavior/template_method.md)
+* [방문자 패턴](behavior/visitor.md)
+
+## 함수형 패턴
+
+* [Maybe 모나드 패턴](functional/maybe_monad.md)
